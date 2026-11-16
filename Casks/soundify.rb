@@ -1,6 +1,6 @@
 cask "soundify" do
-  version "0.2.13"
-  sha256 "1b08929b09ea4c5b04edc208e4511fcdecf3aac00885268319ea4bf65f4e3fe6"
+  version "0.3.5"
+  sha256 "866fdbf33ddebc9918674679c316398a079a4dc90d29971f79f9305d6f77599a"
 
   url "https://github.com/sar0o/soundify-releases/releases/download/v#{version}/Soundify-macos.zip"
   name "Soundify"
